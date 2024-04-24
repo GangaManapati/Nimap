@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\GangaConsoleApp1\GangaConsoleApp1\bin\Debug\GangaConsoleApp1.exe.config
+C:\Users\Nimap\source\repos\GangaConsoleApp1\GangaConsoleApp1\bin\Debug\GangaConsoleApp1.exe
+C:\Users\Nimap\source\repos\GangaConsoleApp1\GangaConsoleApp1\bin\Debug\GangaConsoleApp1.pdb
+C:\Users\Nimap\source\repos\GangaConsoleApp1\GangaConsoleApp1\obj\Debug\GangaConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\GangaConsoleApp1\GangaConsoleApp1\obj\Debug\GangaConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\GangaConsoleApp1\GangaConsoleApp1\obj\Debug\GangaConsoleApp1.exe
+C:\Users\Nimap\source\repos\GangaConsoleApp1\GangaConsoleApp1\obj\Debug\GangaConsoleApp1.pdb

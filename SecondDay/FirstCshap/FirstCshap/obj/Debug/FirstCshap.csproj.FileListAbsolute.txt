@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\FirstCshap\FirstCshap\obj\Debug\FirstCshap.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\FirstCshap\FirstCshap\obj\Debug\FirstCshap.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\FirstCshap\FirstCshap\bin\Debug\FirstCshap.exe.config
+C:\Users\Nimap\source\repos\FirstCshap\FirstCshap\bin\Debug\FirstCshap.exe
+C:\Users\Nimap\source\repos\FirstCshap\FirstCshap\bin\Debug\FirstCshap.pdb
+C:\Users\Nimap\source\repos\FirstCshap\FirstCshap\obj\Debug\FirstCshap.exe
+C:\Users\Nimap\source\repos\FirstCshap\FirstCshap\obj\Debug\FirstCshap.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\FirstCshap\ControlFlow\bin\Debug\ControlFlow.exe.config
+C:\Users\Nimap\source\repos\FirstCshap\ControlFlow\bin\Debug\ControlFlow.exe
+C:\Users\Nimap\source\repos\FirstCshap\ControlFlow\bin\Debug\ControlFlow.pdb
+C:\Users\Nimap\source\repos\FirstCshap\ControlFlow\obj\Debug\ControlFlow.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\FirstCshap\ControlFlow\obj\Debug\ControlFlow.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\FirstCshap\ControlFlow\obj\Debug\ControlFlow.exe
+C:\Users\Nimap\source\repos\FirstCshap\ControlFlow\obj\Debug\ControlFlow.pdb

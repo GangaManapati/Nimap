@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\WorkingOnStrings\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\Nimap\source\repos\WorkingOnStrings\Constructor\bin\Debug\Constructor.exe
+C:\Users\Nimap\source\repos\WorkingOnStrings\Constructor\bin\Debug\Constructor.pdb
+C:\Users\Nimap\source\repos\WorkingOnStrings\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\WorkingOnStrings\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\WorkingOnStrings\Constructor\obj\Debug\Constructor.exe
+C:\Users\Nimap\source\repos\WorkingOnStrings\Constructor\obj\Debug\Constructor.pdb

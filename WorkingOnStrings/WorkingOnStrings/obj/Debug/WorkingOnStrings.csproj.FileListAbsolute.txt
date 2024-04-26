@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\WorkingOnStrings\WorkingOnStrings\bin\Debug\WorkingOnStrings.exe.config
+C:\Users\Nimap\source\repos\WorkingOnStrings\WorkingOnStrings\bin\Debug\WorkingOnStrings.exe
+C:\Users\Nimap\source\repos\WorkingOnStrings\WorkingOnStrings\bin\Debug\WorkingOnStrings.pdb
+C:\Users\Nimap\source\repos\WorkingOnStrings\WorkingOnStrings\obj\Debug\WorkingOnStrings.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\WorkingOnStrings\WorkingOnStrings\obj\Debug\WorkingOnStrings.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\WorkingOnStrings\WorkingOnStrings\obj\Debug\WorkingOnStrings.exe
+C:\Users\Nimap\source\repos\WorkingOnStrings\WorkingOnStrings\obj\Debug\WorkingOnStrings.pdb

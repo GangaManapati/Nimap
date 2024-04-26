@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\classes\classes\obj\Debug\classes.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\classes\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\classes\classes\bin\Debug\classes.exe.config
+C:\Users\Nimap\source\repos\classes\classes\bin\Debug\classes.exe
+C:\Users\Nimap\source\repos\classes\classes\bin\Debug\classes.pdb
+C:\Users\Nimap\source\repos\classes\classes\obj\Debug\classes.exe
+C:\Users\Nimap\source\repos\classes\classes\obj\Debug\classes.pdb

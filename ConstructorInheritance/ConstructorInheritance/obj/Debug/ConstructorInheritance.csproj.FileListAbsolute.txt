@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\ConstructorInheritance\ConstructorInheritance\bin\Debug\ConstructorInheritance.exe.config
+C:\Users\Nimap\source\repos\ConstructorInheritance\ConstructorInheritance\bin\Debug\ConstructorInheritance.exe
+C:\Users\Nimap\source\repos\ConstructorInheritance\ConstructorInheritance\bin\Debug\ConstructorInheritance.pdb
+C:\Users\Nimap\source\repos\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.exe
+C:\Users\Nimap\source\repos\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Lambda\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\Nimap\source\repos\Lambda\Lambda\bin\Debug\Lambda.exe
+C:\Users\Nimap\source\repos\Lambda\Lambda\bin\Debug\Lambda.pdb
+C:\Users\Nimap\source\repos\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Lambda\Lambda\obj\Debug\Lambda.exe
+C:\Users\Nimap\source\repos\Lambda\Lambda\obj\Debug\Lambda.pdb

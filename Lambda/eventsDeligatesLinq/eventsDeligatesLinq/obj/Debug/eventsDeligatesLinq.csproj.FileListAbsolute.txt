@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\eventsDeligatesLinq\eventsDeligatesLinq\obj\Debug\eventsDeligatesLinq.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\eventsDeligatesLinq\eventsDeligatesLinq\obj\Debug\eventsDeligatesLinq.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\eventsDeligatesLinq\eventsDeligatesLinq\bin\Debug\eventsDeligatesLinq.exe.config
+C:\Users\Nimap\source\repos\eventsDeligatesLinq\eventsDeligatesLinq\bin\Debug\eventsDeligatesLinq.exe
+C:\Users\Nimap\source\repos\eventsDeligatesLinq\eventsDeligatesLinq\bin\Debug\eventsDeligatesLinq.pdb
+C:\Users\Nimap\source\repos\eventsDeligatesLinq\eventsDeligatesLinq\obj\Debug\eventsDeligatesLinq.exe
+C:\Users\Nimap\source\repos\eventsDeligatesLinq\eventsDeligatesLinq\obj\Debug\eventsDeligatesLinq.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Extenclass\Extenclass\bin\Debug\Extenclass.exe.config
+C:\Users\Nimap\source\repos\Extenclass\Extenclass\bin\Debug\Extenclass.exe
+C:\Users\Nimap\source\repos\Extenclass\Extenclass\bin\Debug\Extenclass.pdb
+C:\Users\Nimap\source\repos\Extenclass\Extenclass\obj\Debug\Extenclass.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Extenclass\Extenclass\obj\Debug\Extenclass.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Extenclass\Extenclass\obj\Debug\Extenclass.exe
+C:\Users\Nimap\source\repos\Extenclass\Extenclass\obj\Debug\Extenclass.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nimap\source\repos\Day2524\Day2524\bin\Debug\Day2524.exe.config
+C:\Users\Nimap\source\repos\Day2524\Day2524\bin\Debug\Day2524.exe
+C:\Users\Nimap\source\repos\Day2524\Day2524\bin\Debug\Day2524.pdb
+C:\Users\Nimap\source\repos\Day2524\Day2524\obj\Debug\Day2524.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Day2524\Day2524\obj\Debug\Day2524.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Day2524\Day2524\obj\Debug\Day2524.exe
+C:\Users\Nimap\source\repos\Day2524\Day2524\obj\Debug\Day2524.pdb

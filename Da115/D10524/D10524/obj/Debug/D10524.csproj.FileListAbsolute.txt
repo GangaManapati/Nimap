@@ -1,0 +1,12 @@
+C:\Users\Nimap\source\repos\D10524\D10524\bin\Debug\D10524.exe.config
+C:\Users\Nimap\source\repos\D10524\D10524\bin\Debug\D10524.exe
+C:\Users\Nimap\source\repos\D10524\D10524\bin\Debug\D10524.pdb
+C:\Users\Nimap\source\repos\D10524\D10524\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\source\repos\D10524\D10524\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\source\repos\D10524\D10524\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\source\repos\D10524\D10524\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\source\repos\D10524\D10524\obj\Debug\D10524.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\D10524\D10524\obj\Debug\D10524.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\D10524\D10524\obj\Debug\D10524.csproj.Up2Date
+C:\Users\Nimap\source\repos\D10524\D10524\obj\Debug\D10524.exe
+C:\Users\Nimap\source\repos\D10524\D10524\obj\Debug\D10524.pdb

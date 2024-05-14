@@ -1,0 +1,15 @@
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\bin\Debug\Day1452024.exe.config
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\bin\Debug\Day1452024.exe
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\bin\Debug\Day1452024.pdb
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\obj\Debug\Day1452024.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\obj\Debug\Day1452024.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\obj\Debug\Day1452024.csproj.Up2Date
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\obj\Debug\Day1452024.exe
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\obj\Debug\Day1452024.pdb
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\obj\Debug\Day1452024.Migrations.InitialModel.resources
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\obj\Debug\Day1452024.csproj.GenerateResource.cache
+C:\Users\Nimap\source\repos\Day1452024\Day1452024\obj\Debug\Day1452024.Migrations.Dataannotations.resources

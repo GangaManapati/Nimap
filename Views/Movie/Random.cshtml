@@ -1,0 +1,31 @@
+﻿@model Day22.ViewModel.RandomMovieViewModel
+@{
+    ViewBag.Title = "Random";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+
+}
+
+
+
+@{
+    var CN = Model.Cus.Count > 1 ? "Papular" : null;
+}
+
+
+
+<h2 class="@CN">@Model.M.Name</h2>
+@if (Model.Cus.Count == 0)
+{
+    <text>No one can see before.</text>
+
+}
+else
+{
+    <ul>
+        @foreach (var i in Model.Cus)
+        {
+            <li>@i.Name</li>
+        }
+    </ul>
+}

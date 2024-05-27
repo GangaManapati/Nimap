@@ -1,0 +1,43 @@
+﻿@model Day27524.Models.Employee
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<div>
+    <table>
+        <tr>
+            <td>EmpId:</td>
+            <td>@Html.HiddenFor(m => m.EmpId)</td>
+        </tr>
+        <tr>
+            <td>EmpName:</td>
+            <td>@Html.TextBoxFor(m => m.EmpName)</td>
+        </tr>
+        <tr>
+            <td>EmpAddress:</td>
+            <td>@Html.TextAreaFor(m => m.EmpAddress)</td>
+        </tr>
+        <tr>
+            <td>EmpPhno:</td>
+            <td>@Html.DisplayFor(m => m.EmpPhno)</td>
+        </tr>
+        <tr>
+            <td>Password:</td>
+            <td>@Html.PasswordFor(m => m.Password)</td>
+        </tr>
+        <tr>
+            <td>IsPermanent:</td>
+            <td>@Html.EditorFor(m => m.IsPermant)</td>
+        </tr>
+        <tr>
+            <td>Gender:</td>
+            <td>
+                @Html.DropDownListFor(m => m.gen, new SelectList(Enum.GetValues(typeof(Day27524.Models.gender))))
+            </td>
+        </tr>
+
+    </table>
+</div>

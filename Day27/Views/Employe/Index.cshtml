@@ -1,0 +1,17 @@
+﻿@model Day27524.Models.Employee
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+<div>
+    <table>
+        <tr>
+            <td>Gender:</td>
+            <td>
+                @Html.ListBoxFor(m=>m.gen,new SelectList(Enum.GetValues(typeof(Day27524.Models.gender))))
+            </td>
+        </tr>
+    </table>
+</div>
